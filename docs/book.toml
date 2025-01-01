@@ -3,7 +3,7 @@ authors = ["Youjie Zheng, Jia Yuekai, YU Chen"]
 language = "cn"
 multilingual = false
 src = "src"
-title = "ArceOS Tutorial Book"
+title = "Starry Tutorial Book"
 [rust]
 edition = "2021"
 [output.html.playpen]
