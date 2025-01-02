@@ -37,7 +37,7 @@
     - rust app: rust 语言编写的用户程序，调用 axstd 从而调用 Unikernel 内核的功能
     - c app: c 语言编写的用户程序，与 axlibc 链接从而调用 Unikernel 内核的功能
     
-相关的文档位于：[arceos](https://arceos.org/arceos/)
+关于 ArceOS 的接口更加详细的说明文档位于：[arceos](https://arceos.org/arceos/)
 
 其他相关材料包括：
 - Unikernel 架构说明： https://dl.acm.org/doi/10.1145/2490301.2451167
