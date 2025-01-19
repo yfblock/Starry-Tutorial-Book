@@ -4,6 +4,7 @@
     - [实验环境配置](ch01-01.md)
     - [运行 Starry 的测例](ch01-02.md)
     - [为 Starry 添加新测例](ch01-03.md)
+    - [在 OS 比赛上测试 Starry](ch01-04.md)
 
 - [Starry 概述](ch02-00.md)
     - [背景说明](ch02-01.md)
