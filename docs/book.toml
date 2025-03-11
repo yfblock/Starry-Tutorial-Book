@@ -9,7 +9,7 @@ edition = "2021"
 [output.html.playpen]
 editable = true
 [output.html]
-git-repository-url = "https://github.com/Azure-stars/Starry-Tutorial-Book"
+git-repository-url = "https://github.com/oscomp/starry-next"
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 # mathjax-support = true
 # [preprocessor.mathjax]
