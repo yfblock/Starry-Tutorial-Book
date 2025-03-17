@@ -38,3 +38,4 @@
     - [宏内核扩展与系统调用](ch04-07.md)
 
 - [Starry 开发规划](ch05-00.md)
+- [附录：利用 qemu-user 运行和调试程序](appendix-01.md)
